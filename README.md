@@ -28,7 +28,9 @@ Informasi dataset:
 - Target prediksi: `likes_received`
 - Jenis permasalahan: Regresi
 
-Kolom `likes_received` digunakan sebagai target yang akan diprediksi oleh model. Fitur lainnya dipilih dan diproses sesuai kebutuhan pemodelan.
+Dataset ini berisi informasi aktivitas pengguna Facebook yang digunakan untuk proses analisis data dan pemodelan Machine Learning. Pada project ini, kolom likes_received digunakan sebagai target prediksi menggunakan algoritma regresi.
+**Link Dataset**:https://www.kaggle.com/code/rajnaid/facebook-data-visualization
+Dataset digunakan untuk keperluan pembelajaran dan praktikum Machine Learning. Nama file pada project dapat berbeda dari nama file asli yang tersedia di Kaggle karena penyesuaian saat proses pengolahan data.
 
 ## Teknologi dan Library
 
