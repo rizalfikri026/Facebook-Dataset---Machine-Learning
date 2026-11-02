@@ -186,6 +186,43 @@ Setelah project dijalankan, hasil yang diharapkan meliputi:
 
 Project ini merupakan penerapan dasar Machine Learning menggunakan dataset Facebook. Melalui project ini, proses pengolahan data, eksplorasi data, persiapan fitur, pelatihan model regresi, evaluasi performa, dan penyimpanan model dapat dipelajari secara bertahap. Hasil project dapat digunakan sebagai bahan pembelajaran untuk memahami alur kerja Machine Learning menggunakan Python.
 
+## Referensi Penelitian
+
+**Judul:** Analisis Faktor-Faktor yang Mempengaruhi Engagement Video di Platform TikTok Menggunakan Multiple Linear Regression
+
+**Penulis:** Nur Sapina, Annisa Nanda, Muhammad Amirul Arifin, Rahmaddeni, dan Lusiana Efrizoni.
+
+**Tahun:** 2025
+
+**Nama Jurnal:** MALCOM: Indonesian Journal of Machine Learning and Computer Science
+
+**Volume:** 5, Issue 3, halaman 875–885.
+
+**Akreditasi:** SINTA 3
+
+### Ringkasan Penelitian
+
+Penelitian ini membahas analisis tingkat engagement video pada platform TikTok dengan menggunakan metode Multiple Linear Regression atau regresi linear berganda. Data yang digunakan berkaitan dengan interaksi pengguna terhadap video, seperti jumlah likes, views, komentar, dan shares. Penelitian ini bertujuan untuk mengetahui hubungan antara faktor-faktor tersebut dengan tingkat engagement video.
+
+### Metode dan Evaluasi
+
+Metode yang digunakan adalah Multiple Linear Regression. Evaluasi model dilakukan menggunakan beberapa metrik, yaitu:
+
+- **MSE (Mean Squared Error):** 0,0055
+- **RMSE (Root Mean Squared Error):** 0,0742
+- **R² (R-Squared):** 0,978
+
+### Hubungan dengan Proyek
+
+Penelitian ini dijadikan sebagai salah satu referensi dalam pengembangan proyek prediksi jumlah likes pada media sosial Facebook. Kesamaan penelitian terletak pada penggunaan data interaksi media sosial dan penerapan metode regresi untuk melakukan prediksi. Penelitian ini juga menjadi bahan pembanding dalam memahami penerapan algoritma regresi serta evaluasi performa model machine learning.
+
+**Sumber Jurnal:**
+- [PDF Jurnal](https://www.journal.irpi.or.id/index.php/malcom/article/download/1987/1002/10831)
+- [Halaman Artikel Resmi](https://journal.irpi.or.id/index.php/malcom/article/view/1987)
+- [Profil Jurnal SINTA](https://sinta.kemdiktisaintek.go.id/journals/profile/11292)
+
+**Catatan:** Artikel ini melaporkan MSE, RMSE, dan R². Nilai MAE tidak dicantumkan dalam hasil evaluasi penelitian tersebut.
+
 ## Catatan
 
 Project ini dibuat untuk keperluan pembelajaran dan praktikum. Hasil prediksi bergantung pada kualitas dataset, pemilihan fitur, proses preprocessing, serta algoritma yang digunakan. Hasil evaluasi perlu diperiksa berdasarkan output aktual dari notebook.
