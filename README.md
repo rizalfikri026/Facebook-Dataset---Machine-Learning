@@ -188,40 +188,39 @@ Project ini merupakan penerapan dasar Machine Learning menggunakan dataset Faceb
 
 ## Referensi Penelitian
 
-**Judul:** Analisis Faktor-Faktor yang Mempengaruhi Engagement Video di Platform TikTok Menggunakan Multiple Linear Regression
+**Judul:** Komparasi Linear Regression, Random Forest Regression, dan Multilayer Perceptron Regression untuk Prediksi Tren Musik TikTok
 
-**Penulis:** Nur Sapina, Annisa Nanda, Muhammad Amirul Arifin, Rahmaddeni, dan Lusiana Efrizoni.
+**Penulis:** Nadia Sofie Soraya dan Hendry
 
-**Tahun:** 2025
+**Tahun:** 2023
 
-**Nama Jurnal:** MALCOM: Indonesian Journal of Machine Learning and Computer Science
+**Nama Jurnal:** AITI: Jurnal Teknologi Informasi
 
-**Volume:** 5, Issue 3, halaman 875–885.
+**Volume:** 20, Nomor 2, Halaman 191–205
 
-**Akreditasi:** SINTA 3
+**DOI:** https://doi.org/10.24246/aiti.v20i2.191-205
 
 ### Ringkasan Penelitian
 
-Penelitian ini membahas analisis tingkat engagement video pada platform TikTok dengan menggunakan metode Multiple Linear Regression atau regresi linear berganda. Data yang digunakan berkaitan dengan interaksi pengguna terhadap video, seperti jumlah likes, views, komentar, dan shares. Penelitian ini bertujuan untuk mengetahui hubungan antara faktor-faktor tersebut dengan tingkat engagement video.
+Penelitian ini membahas perbandingan beberapa metode machine learning untuk memprediksi tren musik pada platform TikTok. Algoritma yang digunakan adalah Linear Regression, Random Forest Regression, dan Multilayer Perceptron Regression. Ketiga metode tersebut dibandingkan untuk mengetahui algoritma yang memberikan hasil prediksi terbaik berdasarkan data penelitian.
 
 ### Metode dan Evaluasi
 
-Metode yang digunakan adalah Multiple Linear Regression. Evaluasi model dilakukan menggunakan beberapa metrik, yaitu:
+Penelitian menggunakan tiga algoritma regresi dengan hasil evaluasi sebagai berikut:
 
-- **MSE (Mean Squared Error):** 0,0055
-- **RMSE (Root Mean Squared Error):** 0,0742
-- **R² (R-Squared):** 0,978
+- **MAE (Mean Absolute Error):** 0,118
+- **MSE (Mean Squared Error):** 0,0313
+- **RMSE (Root Mean Squared Error):** 0,177
+
+Berdasarkan hasil penelitian, Linear Regression memberikan performa paling efektif dibandingkan Random Forest Regression dan Multilayer Perceptron Regression pada dataset yang digunakan.
 
 ### Hubungan dengan Proyek
 
-Penelitian ini dijadikan sebagai salah satu referensi dalam pengembangan proyek prediksi jumlah likes pada media sosial Facebook. Kesamaan penelitian terletak pada penggunaan data interaksi media sosial dan penerapan metode regresi untuk melakukan prediksi. Penelitian ini juga menjadi bahan pembanding dalam memahami penerapan algoritma regresi serta evaluasi performa model machine learning.
+Penelitian ini dijadikan sebagai referensi dalam pengembangan proyek prediksi jumlah likes pada media sosial Facebook. Kesamaan penelitian terletak pada penggunaan data dari platform media sosial serta penerapan algoritma regresi untuk melakukan prediksi. Penelitian ini juga menjadi bahan pembanding dalam memahami perbedaan performa beberapa algoritma regresi dan penggunaan metrik evaluasi seperti MAE dan MSE.
 
 **Sumber Jurnal:**
-- [PDF Jurnal](https://www.journal.irpi.or.id/index.php/malcom/article/download/1987/1002/10831)
-- [Halaman Artikel Resmi](https://journal.irpi.or.id/index.php/malcom/article/view/1987)
-- [Profil Jurnal SINTA](https://sinta.kemdiktisaintek.go.id/journals/profile/11292)
-
-**Catatan:** Artikel ini melaporkan MSE, RMSE, dan R². Nilai MAE tidak dicantumkan dalam hasil evaluasi penelitian tersebut.
+- [Baca Artikel dan Unduh PDF](https://doi.org/10.24246/aiti.v20i2.191-205)
+- [Profil Jurnal SINTA](https://sinta.kemdiktisaintek.go.id/journals/profile/)
 
 ## Catatan
 
